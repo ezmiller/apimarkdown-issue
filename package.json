@@ -7,6 +7,7 @@
     "doc": "apidoc-markdown -i src -o API.md"
   },
   "dependencies": {
+    "apidoc": "^0.53.1",
     "apidoc-markdown": "7.2.4"
   }
 }
