@@ -12,3 +12,9 @@ function testGet() {}
  */
 function testPost() {}
 
+/**
+ * @api {post} /test/another
+ * @apiName PostTestAnother
+ * @apiGroup Test
+ */
+function testPostAnother() {}

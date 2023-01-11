@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "doc": "apidoc-markdown -i src -o API.md"
+  },
   "dependencies": {
-    "apidoc-markdown": "^7.2.4"
+    "apidoc-markdown": "7.2.4"
   }
 }
