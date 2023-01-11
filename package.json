@@ -1,0 +1,9 @@
+{
+  "name": "apimarkdown-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apidoc-markdown": "^7.2.4"
+  }
+}
